@@ -2,7 +2,7 @@ Package: wiringpi
 Version: 2.50
 Section: libraries
 Priority: optional
-Architecture: armhf
+Architecture: arm64
 Depends: libc6
 Maintainer: Gordon Henderson <projects@drogon.net>
 Description: The wiringPi libraries, headers and gpio command
