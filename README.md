@@ -26,13 +26,3 @@ Please do not email Gordon if you have issues, he will not be able to help.
 Pull-requests are not currently accepted, since this is a mirror.
 
 For support, comments, questions, etc please join the WiringPi Discord channel: https://discord.gg/SM4WUVG
-
-## How to use
-
-Just compile like the original wiringPi and install it.
-
-In addition create a fake cpuinfo as /etc/wiringPi/cpuinfo with entries for Hardware and Revision, eg:
-```
-  Hardware	: BCM2710
-  Revision 	: a020d3
-```
