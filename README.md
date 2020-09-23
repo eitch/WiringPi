@@ -17,12 +17,3 @@ Pull-requests may be accepted to add or fix support for newer hardware, but new 
 other changes will not be accepted.
 
 For support, comments, questions, etc please join the WiringPi Discord channel: https://discord.gg/SM4WUVG
-
-# Note
-This is a arm64 fork of the unofficial mirror of WiringPi to support ports (Python/Ruby/etc).
-
-Please do not email Gordon if you have issues, he will not be able to help.
-
-Pull-requests are not currently accepted, since this is a mirror.
-
-For support, comments, questions, etc please join the WiringPi Discord channel: https://discord.gg/SM4WUVG
